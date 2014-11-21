@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/shinano-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/sony/shinano-common/proprietary/bin/radish:system/bin/radish \
     vendor/sony/shinano-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
+    vendor/sony/shinano-common/proprietary/bin/sct_service:system/bin/sct_service \
     vendor/sony/shinano-common/proprietary/bin/ta_param_loader:system/bin/ta_param_loader \
     vendor/sony/shinano-common/proprietary/bin/ta_qmi_service:system/bin/ta_qmi_service \
     vendor/sony/shinano-common/proprietary/bin/taimport:system/bin/taimport \
